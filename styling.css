@@ -1,8 +1,3 @@
-@import url("https://cdn.jsdelivr.net/gh/Druidblack/jellyfin-icon-metadata@main/public-icon.css"); /* Metadata Icons */
-
-@import url("https://cdn.jsdelivr.net/gh/lscambo13/ElegantFin@main/Theme/ElegantFin-jellyfin-theme-build-latest-minified.css"); /* ElegantFin main css */
-@import url("https://cdn.jsdelivr.net/gh/lscambo13/ElegantFin@main/Theme/assets/add-ons/custom-media-covers-latest-min.css"); /* ElegantFin library image css */
-
 :root {
     --urlMoviesCover: url(https://chennai365.com/assets/Vijay-Samantha-Amy-Jackson-in-Theri-Policeodu-Movie-High_007.jpg);
     --urlMusicCover: url(https://wallpaperaccess.com/full/3565952.jpg);
