@@ -8,10 +8,10 @@
     --urlMusicCover: url(https://wallpaperaccess.com/full/3565952.jpg);
 }
 
-/* Hide playlist library */
+/* Hide playlist library 
 div[data-collectiontype="playlists"] {
     display: none !important;
-}
+} */
 
 /* Extending Elegantfin library customization for music videos */
 div[data-collectiontype="musicvideos"] .cardImageContainer.cardContent {
