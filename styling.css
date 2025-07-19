@@ -4,7 +4,7 @@
 @import url("https://cdn.jsdelivr.net/gh/lscambo13/ElegantFin@main/Theme/assets/add-ons/custom-media-covers-latest-min.css"); /* ElegantFin library image css */
 
 :root {
-    --urlMoviesCover: url(https://chennai365.com/assets/Vijay-Samantha-Amy-Jackson-in-Theri-Policeodu-Movie-High_007.jpg);
+    --urlMoviesCover: url(https://image.tmdb.org/t/p/original/mC4jZOnwVUvyezTxhzzBKHfLgcw.jpg);
     --urlMusicCover: url(https://wallpaperaccess.com/full/3565952.jpg);
 }
 
